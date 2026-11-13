@@ -1,6 +1,6 @@
 # HATWEAVE
 
-## Aperiodic Geometry as a Post-Quantum Encryption Substrate
+## A Research Study: Aperiodic Geometry as a Candidate Substrate for Quantum-Resistant Encryption
 
 ### A thesis on cut-and-project keystreams drawn from the hat monotile family
 
