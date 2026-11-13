@@ -16,6 +16,8 @@ inspiration is the **hat tile** (Smith, Myers, Kaplan & Goodman-Strauss,
 ## Start here
 
 - 🎬 **Watch the idea (79 seconds):** [hat-tile-encryption-video.mp4](media/hat-tile-encryption-video.mp4) — the animated explainer: the hat tile, the never-repeating key, the handshake, and the alarm. (Captions on.)
+- 👁️ **See the pattern:** the first 64 symbols of the keystream, drawn from this repo's own generator (cut_and_project.py) — it never repeats.
+  ![The keystream — it never repeats](media/hatweave-keystream.png)
 - **[THESIS.md](THESIS.md)** — the full thesis: the quantum problem, the
   construction, the quantum-resistance argument, the honest hard problems,
   and the research roadmap.
